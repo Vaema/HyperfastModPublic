@@ -1,0 +1,3 @@
+displayName = Hyperfast
+author = Vaema
+version = 0.1
